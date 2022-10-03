@@ -1,0 +1,11 @@
+{
+  "identifier" : "682EB142-2040-4DF9-9E1C-2347E371CF1A",
+  "ignoredFilePatterns" : [
+    ".git",
+    ".nova"
+  ],
+  "remotePath" : "\/public_html\/libraries",
+  "remoteURL" : "https:\/\/media-lab.app",
+  "server" : "Media Lab @ Hetzner",
+  "usesPublishing" : true
+}
